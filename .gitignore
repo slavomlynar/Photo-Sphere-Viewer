@@ -5,4 +5,3 @@ yarn-error.log
 !docs/.typedoc
 dist
 /public
-wordpress-plugins/*.zip
